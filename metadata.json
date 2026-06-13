@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Booking App",
+  "description": "A clean, modern hotel booking web application featuring search, hotel list, room details, bookings, and confirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
